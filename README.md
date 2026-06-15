@@ -93,6 +93,8 @@ The combination of filtering, grouping, and visualisation provided a full analyt
 - Analytical thinking with real datasets  
 
 ---
+<img width="353" height="446" alt="image" src="https://github.com/user-attachments/assets/90103bf9-389d-4715-8a46-7a1e41ada4b4" />
 
+- The above image displays a block of code used on a pandas DataFrame that sorts the percentage of missing values in descending orders and returns how many rows are mostly empty.
 
 
